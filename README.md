@@ -7,7 +7,7 @@ Lidar connected with cheap USB-Serial adapter, motor connected to 3V DC, 5V make
 <img src="docs/pinout.png" width="600">
 
 ![wiring]()
-<img src="docs/wiring.png" width="600">
+<img src="docs/wiring.jpg" width="600">
 
 ###Useful Links
 - Thanks to the video https://www.youtube.com/watch?v=S_xONJO4-Q0 that explain a lot
